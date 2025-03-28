@@ -1,5 +1,6 @@
 # Currency Converter
-
+Link to site: http://www.davidpontient.tech/
+video:
 # About 
 I created this to make it easier to check real-time exchange rates, especially when paying tuition fees at ALU.  
 
@@ -16,7 +17,7 @@ Uses a reliable Api
 - **API:** [ExchangeRate API](https://www.exchangerate-api.com/)  
 
 ## **How to Use**  
-  
+Click the link.
 Run the app:
 
 Open index.html in a browser
