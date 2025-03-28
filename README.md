@@ -1,6 +1,6 @@
 # Currency Converter
 Link to site: http://www.davidpontient.tech/
-video:
+video: https://vimeo.com/1070382609/545f949e7c?share=copy
 # About 
 I created this to make it easier to check real-time exchange rates, especially when paying tuition fees at ALU.  
 
