@@ -1,0 +1,76 @@
+/* Currency converter */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0a0a0a;
+    color: #f37777;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #1a1a2e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+h1 {
+    color: #00aaff;
+}
+
+.intro {
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: #cccccc;
+}
+
+.logo {
+    width: 80px;
+    margin: 10px auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #0c8bca;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #00aaff;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #00aaff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0088cc;
+}
+
+#result {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff00ea;
+}

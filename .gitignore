@@ -1,0 +1,14 @@
+package-lock.json
+yarn.lock
+
+# API Keys hide
+.env
+
+# Editor & OS-specific files
+
+.vscode/
+.idea/
+*.log
+
+# Build and deployment files
+dist/
